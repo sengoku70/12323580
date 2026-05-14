@@ -1,0 +1,10 @@
+{
+  "name": "logging_middleware",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "description": "Reusable logging middleware and log function for notification backend.",
+  "keywords": ["logging", "middleware", "node", "express"],
+  "author": "",
+  "license": "MIT"
+}
